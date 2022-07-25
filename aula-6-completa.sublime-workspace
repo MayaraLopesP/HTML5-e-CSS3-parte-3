@@ -1,0 +1,189 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/mayar/Downloads/Live-html-css-1-main/Live-html-css-1-main/pen-export-WNMwOGO/src/index.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/index.html",
+		"/C/Users/mayar/Downloads/Live-html-css-1-main/Live-html-css-1-main/pen-export-WNMwOGO/README.md",
+		"/C/Users/mayar/Downloads/Live-html-css-1-main/Live-html-css-1-main/pen-export-WNMwOGO/src/style.css",
+		"/C/Users/mayar/Downloads/Live-html-css-1-main/Live-html-css-1-main/pen-export-WNMwOGO/dist/index.html",
+		"/C/Users/mayar/Downloads/Live-html-css-1-main/Live-html-css-1-main/pen-export-WNMwOGO/LICENSE.txt",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/exemplo.html",
+		"/C/Users/mayar/Downloads/aula-6-completa/Aula 6 completa/index.html",
+		"/C/Users/mayar/Downloads/aula-6-completa/Aula 6 completa/style.css",
+		"/C/Users/mayar/AppData/Roaming/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/C/Users/mayar/Downloads/aula-6-completa/Aula 6 completa/banner.jpg",
+		"/C/Users/mayar/Downloads/aula-6-completa/Aula 6 completa/beneficios.jpg",
+		"/C/Users/mayar/Downloads/Alura Defender Introdução - aula 5 com bug.sb3",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/html",
+		"/C/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "aula-6-completa.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
